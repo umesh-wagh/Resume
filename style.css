@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    background-color: aqua;
+    font-family: monospace;
+    color: black;
+}
+form{
+    margin-left: 50px;
+}
